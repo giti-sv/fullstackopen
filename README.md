@@ -22,5 +22,5 @@ npm run dev
 
 ## Notes
 
-Part 3 (programming a server) lives in a separate repository, since it needs its
-own repository root for deployment.
+Part 3 (programming a server) will live in a separate repository, since it needs
+its own repository root for deployment.
